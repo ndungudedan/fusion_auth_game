@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:fusionauth_game/game_screen.dart';
 import 'package:fusionauth_game/login_screen.dart';
-import 'package:fusionauth_game/network.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
